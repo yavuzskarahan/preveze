@@ -60,9 +60,9 @@ PrevezeROV is an advanced underwater vehicle project designed for exploration an
 ## Thanks
 We would like to extend our sincere thanks to our sponsors who have supported this project.
 
-![Sponsor 1](images/sponsor1.png)
-![Sponsor 2](images/sponsor2.png)
-![Sponsor 3](images/sponsor3.png)
+[![3D Kafası](https://3dkafasi.com/logo.png)](https://3dkafasi.com/)
+[![İDÇ Liman İşletmeleri](https://www.idcliman.com.tr/images/logos/idc_resize_white.svg)](https://www.idcliman.com.tr/tr)
+
 
 Your contributions have been invaluable in making PrevezeROV a reality.
 
