@@ -60,8 +60,18 @@ PrevezeROV is an advanced underwater vehicle project designed for exploration an
 ## Thanks
 We would like to extend our sincere thanks to our sponsors who have supported this project.
 
-[![3D Kafası](https://3dkafasi.com/logo.png)](https://3dkafasi.com/)
-[![İDÇ Liman İşletmeleri](https://www.idcliman.com.tr/images/logos/idc_resize_white.svg)](https://www.idcliman.com.tr/tr)
+<div style="display: flex; justify-content: space-around;">
+    <div style="max-height: 80px;">
+        <a href="https://3dkafasi.com/">
+            <img src="https://3dkafasi.com/logo.png" alt="3D Kafası" style="max-height: 100%; max-width: 100%;">
+        </a>
+    </div>
+    <div style="max-height: 80px;">
+        <a href="https://www.idcliman.com.tr/tr">
+            <img src="https://www.idcliman.com.tr/images/logos/idc_resize_white.svg" alt="İDÇ Liman İşletmeleri" style="max-height: 100%; max-width: 100%;">
+        </a>
+    </div>
+</div>
 
 
 Your contributions have been invaluable in making PrevezeROV a reality.
