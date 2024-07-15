@@ -1,4 +1,4 @@
-![PrevezeROV](/logo.png)
+![PrevezeROV](/banner.png)
 # PrevezeROV
 
 ## Description
